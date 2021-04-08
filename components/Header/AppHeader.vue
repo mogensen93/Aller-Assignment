@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="w-auto bg-primary sm:mx-h-20 md:-h-16 flex justify-between md:justify-around p-1 shadow-lg z-10">
+        <div class="w-auto bg-primary sm:mx-h-20 md:h-16 flex justify-between md:justify-around p-1 shadow-lg z-10 sticky top-0">
             <img src="https://via.placeholder.com/40x50" alt="">
             <div class="w-auto flex"> 
                 <HeaderSearchDesktop v-show="!isMobile" />
@@ -21,7 +21,7 @@
         data() {
             return{
                 isNavOpen: false,
-                isMobile: false
+                isMobile: false,
             }
         },
         mounted () {
