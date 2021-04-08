@@ -2,8 +2,8 @@
 <!-- TODO: Lav seperat component, og loop igennem links-->
 <!-- EXTRA: Indsæt den rigtige text -->
 <!-- Fix nederste potion af grid -->
-    <div class="md:absolute md:z-50 md:top-0 w-full">
-        <div class="w-full bg-primary md:top-0 flex md:pl-64">
+    <div class="md:absolute md:z-50 md:top-0 w-full ">
+        <div class="w-full bg-primary md:top-0 flex md:justify-center">
             <img src="https://via.placeholder.com/85x125 " class="hidden md:flex h-3/6 md:mt-7" alt="">
             <div class="bg-primary w-full flex flex-wrap md:pt-10  md:max-w-5xl">
                 <div class="leading-loose w-6/12  md:w-3/12 px-10 pb-10 ">
@@ -41,8 +41,8 @@
             </div>
         </div>
 
-        <div class="bg-secondary">
-            <div class="leading-loose p-10 md:pl-96 md:max-w-5xl md:flex" >
+        <div class="bg-secondary flex justify-center">
+            <div class="leading-loose p-10 md:max-w-5xl md:flex" >
                 <h2 class="text-3xl block">MERE</h2>
                 <ul class="grid md:pl-10 grid-cols-2 md:grid-cols-4 gap-x-44">
                     <nuxt-link to="/" class="block">Video</nuxt-link>

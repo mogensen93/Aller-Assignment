@@ -15,9 +15,8 @@ module.exports = {
       },
       width: {
         '960': '960px',
-      }
+      },
     },
-    
   },
   variants: {
     extend: {},
