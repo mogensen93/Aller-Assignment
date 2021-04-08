@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="w-auto bg-gray-100 sm:mx-h-20 md:-h-16 flex justify-between md:justify-around filter p-1 shadow-lg z-10">
+        <div class="w-auto bg-primary sm:mx-h-20 md:-h-16 flex justify-between md:justify-around p-1 shadow-lg z-10">
             <img src="https://via.placeholder.com/40x50" alt="">
             <div class="w-auto flex"> 
                 <HeaderSearchDesktop v-show="!isMobile" />

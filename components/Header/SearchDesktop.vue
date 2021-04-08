@@ -2,7 +2,7 @@
     <div class=" relative w-96 pt-3 mr-6">
         <div class="flex flex-wrap items-stretch mb-4 relative">
 			<div class="flex -mr-px">
-				<span class="flex items-center px-2 text-sm bg-gray-600 text-white">X</span>
+				<span class="flex items-center px-2 text-sm bg-tertiary text-white">X</span>
 			</div>	
 			<input type="text" class="flex-shrink flex-grow flex-auto leading-normal h-10  px-10 relative focus:border-blue focus:shadow relative" placeholder="Indtast søgeord">
             <button type="submit" class="absolute mt-3 left-full -ml-10">
