@@ -25,6 +25,7 @@
             }
         },
         mounted () {
+            this.onResize()
             window.addEventListener('resize', this.onResize)
         },
         methods: {
