@@ -9,6 +9,10 @@ module.exports = {
       'white': '#EEEEEE',
       'black': '#000000'
     },
+    fontFamily: {
+      heading: ['Playfair Display SC', 'serif'],
+      body: ['Montserrat', 'sans-serif']
+    },
     extend: {
       spacing: {
         '170': '170px',
@@ -16,6 +20,9 @@ module.exports = {
       width: {
         '960': '960px',
       },
+      fontSize: {
+        '17': '17px'
+      }
     },
   },
   variants: {
