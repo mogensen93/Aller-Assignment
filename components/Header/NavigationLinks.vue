@@ -1,7 +1,5 @@
 <template>
 <!-- TODO: Lav seperat component, og loop igennem links-->
-<!-- EXTRA: Indsæt den rigtige text -->
-<!-- block text-17 font-light leading-20 tracking-wide py-1 -->
     <div class="md:relative md:-mt-16 md:z-50 md:top-0 w-full ">
         <div class="w-full bg-primary md:top-0 flex md:justify-center">
             <img src="https://via.placeholder.com/85x125 " class="hidden md:flex h-3/6 md:mt-7" alt="">

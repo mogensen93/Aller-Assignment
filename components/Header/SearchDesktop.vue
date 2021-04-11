@@ -4,7 +4,7 @@
 			<div class="flex -mr-px">
 				<span class="flex items-center px-2 text-sm bg-tertiary text-white">X</span>
 			</div>	
-			<input type="text" class="flex-shrink flex-grow flex-auto leading-normal h-10  px-10 relative focus:border-blue focus:shadow relative" placeholder="Indtast søgeord">
+			<input type="text" class="flex-shrink flex-grow flex-auto leading-normal h-10  px-10 relative focus:border-blue focus:shadow font-body italic" placeholder="Indtast søgeord">
             <button type="submit" class="absolute mt-3 left-full -ml-10">
                 <svg version="1.1" class="h-4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                 viewBox="0 0 52.966 52.966" style="enable-background:new 0 0 52.966 52.966;" xml:space="preserve">
