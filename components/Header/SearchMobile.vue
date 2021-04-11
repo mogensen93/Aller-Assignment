@@ -1,6 +1,6 @@
 <template>
     <div class="relative text-gray-600 w-full bg-primary pl-10 pr-10 pt-6 ">
-        <input type="search" name="serch" placeholder="Indtast søgeord.." class="relative w-full mb-6 h-10 px-5 pr-10 text-sm focus:outline-none border-solid  border-2 border-black">
+        <input type="search" name="serch" placeholder="Indtast søgeord.." class="relative w-full mb-6 h-10 px-5 pr-10 text-sm focus:outline-none font-body italic">
         <button type="submit" class="absolute -m-10 mt-3">
             <svg version="1.1" class="h-4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
             viewBox="0 0 52.966 52.966" style="enable-background:new 0 0 52.966 52.966;" xml:space="preserve">

@@ -9,7 +9,8 @@ module.exports = {
       'white': '#EEEEEE',
       'black': '#000000',
       'pink': '#f472b6',
-      'grey': "#333333"
+      'grey': "#333333",
+      'light-grey': "#9A9A9A"
     },
     fontFamily: {
       heading: ['Playfair Display SC', 'serif'],
