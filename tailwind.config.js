@@ -9,6 +9,7 @@ module.exports = {
       'white': '#EEEEEE',
       'black': '#000000',
       'pink': '#f472b6',
+      'grey': "#333333"
     },
     extend: {
       spacing: {
