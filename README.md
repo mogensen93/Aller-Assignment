@@ -1,7 +1,7 @@
 # Aller-Assignment
 
 ## TO DO 
-* anding page background commercial
+* Landing page background commercial
 * Search bar should hide and expand on click
 * Animations
 * Fonts acting wierd
