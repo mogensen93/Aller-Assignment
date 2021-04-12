@@ -1,5 +1,4 @@
 <template>
-<!-- TODO: Lav seperat component, og loop igennem links-->
     <div class="md:relative md:-mt-16 md:z-50 md:top-0 w-full ">
         <div class="w-full bg-primary md:top-0 flex md:justify-center">
             <img src="https://via.placeholder.com/85x125 " class="hidden md:flex h-3/6 md:mt-7" alt="">
@@ -38,7 +37,6 @@
                 <img src="~/assets/img/icons/close.png" class="hidden md:block h-12 w-auto object-contain" v-on:click="toggleNav"/>
             </div>
         </div>
-
         <div class="bg-secondary flex justify-center">
             <div class="leading-loose p-10 md:max-w-5xl md:flex" >
                 <h2 class="text-3xl block font-heading">MERE</h2>

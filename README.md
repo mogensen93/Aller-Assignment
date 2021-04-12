@@ -1,12 +1,5 @@
 # Aller-Assignment
 
-## TO DO 
-* Landing page background commercial
-* Search bar should hide and expand on click
-* Animations
-* Fonts acting wierd
-* Polishing details
-
 ## Build Setup
 
 ```bash
