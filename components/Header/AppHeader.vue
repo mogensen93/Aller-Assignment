@@ -1,7 +1,9 @@
 <template>
     <div>
         <div class="w-auto bg-primary sm:mx-h-20 md:h-16 flex justify-between md:justify-around p-1 shadow-lg z-10 sticky top-0">
-            <img src="https://via.placeholder.com/40x50" alt="">
+            <nuxt-link to="/">            
+                <img src="https://via.placeholder.com/40x50" alt="">
+            </nuxt-link>
             <div class="w-auto flex"> 
                 <HeaderSearchDesktop v-show="!isMobile" />
                 <svg class="block h-auto w-10" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true" v-on:click="isNavOpen = !isNavOpen">
@@ -43,7 +45,3 @@
         },
     }
 </script>
-
-<style>                    
-
-</style>

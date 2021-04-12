@@ -10,5 +10,6 @@
       <img src="https://via.placeholder.com/400x600" alt="" class="h-full w-full max-h-96 object-fill">
     </div>
   </div>
+   <Footer />
   </div>
 </template>
