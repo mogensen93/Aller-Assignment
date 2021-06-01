@@ -1,5 +1,7 @@
 # Aller-Assignment
 
+This is a project of building femina.dk using Nuxt.js and Tailwind without writing custom CSS. 
+
 ## Build Setup
 
 ```bash
